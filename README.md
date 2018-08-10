@@ -5,7 +5,7 @@
 2. Clone the project
 3. Run _pip install requirements.txt_
 4. Open a terminal in the project folder and run _python dircompare.py --help_
-5. To run the tests execute _python -m unittest discover -p 'test_dircompare.py'
+5. To run the tests execute _python -m unittest discover -p 'dircmp_tests.py'
 
 ## TODO
 -[] fix recursive function when running on Windows

@@ -2,8 +2,8 @@
 
 ## How to run
 1. Install Python 2.7.15
-2. Run _pip install requirements.txt_
-3. Clone the project
+2. Clone the project
+3. Run _pip install requirements.txt_
 4. Open a terminal in the project folder and run _python dircompare.py --help_
 5. To run the tests execute _python -m unittest discover -p 'test_dircompare.py'
 

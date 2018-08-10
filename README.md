@@ -17,3 +17,4 @@
 (once entered by the user upon _prompt_ store credentials in a config file and pass them to the main function using @pass_context)
 
 -[] add check for the last time a file was updated and separate files wth different versions even if content is identical
+-[] add more tests
